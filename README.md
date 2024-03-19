@@ -1,14 +1,6 @@
-![Name](Textupper.png)
-![Name](Maskedname1.png)
-
-
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
-
-
 ### How to reach me: <strong>(Click the badge to view my profiles.)</strong>
 
-<img src="https://img.shields.io/badge/Akinadeseun790@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:Akinadeseun790@gmail.com">   <a  href="https://www.instagram.com/sharannyo_/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/sharannyobasu/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Akinadeseun790@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:Akinadeseun790@gmail.com">   <a  href="https://www.instagram.com/hastrosheun/"><img src="https://img.shields.io/badge/hastrosheun_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/oluwaseunakinade20/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 ### Here are some ideas to help you get started:
 
